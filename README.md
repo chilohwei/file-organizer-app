@@ -1,5 +1,6 @@
-# File Organizer
-File Organizer 是一个用于整理文件的工具，能够根据文件类型、日期等条件自动将文件分类整理。
+# FileOrganizerApp
+File Organizer App 是一个用于整理文件的工具，能够根据文件类型、日期等条件自动将文件分类整理。
+
 ![File Organizer Preview](https://github.com/chilohwei/File_Organizer/assets/51521054/8b356be4-2040-4241-933f-84100060651e)
 
 
