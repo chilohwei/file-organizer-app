@@ -47,7 +47,7 @@ python file_organizer.py
 pyinstaller file_organizer.spec
 ```
 
-打包完成后，你可以在 `dist` 目录下找到生成的应用程序。
+打包完成后，你可以在 `dist` 目录下找到生成的应用程序。PS：如果需要更改logo，请在打包前，用自己的`logo.icns`替换项目代码中的同名文件。
 
 ## 贡献
 
@@ -56,7 +56,7 @@ pyinstaller file_organizer.spec
 ## 许可证
 
 此项目基于 [MIT 许可证](LICENSE)。
-s
+
 ## 联系
 
 如有任何问题，请联系 [chilohwei@gmail.com](mailto:chilohwei@gmail.com)。
